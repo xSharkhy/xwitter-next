@@ -14,7 +14,7 @@ A clone of Twitter/X built with Next.js 13, React, Typescript, Tailwind, and Sup
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/twitter-x-clone.git
+   git clone https://github.com/xSharkhy/xwitter-next
     ```
 2. Install NPM packages
     ```sh
